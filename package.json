@@ -50,6 +50,7 @@
     "@vue/eslint-config-prettier": "4.0.x",
     "@vue/eslint-config-standard": "4.0.x",
     "@vue/test-utils": "1.0.0-beta.29",
+    "acorn": "^6.0.5",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "24.1.x",
     "cross-env": "5.2.x",
